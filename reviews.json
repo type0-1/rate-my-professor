@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Alice Thompson",
+        "subject": "Calculus I",
+        "stars": 5,
+        "review": "Dr. Thompson explains concepts very clearly and is always willing to help during office hours. Highly recommend!"
+      },
+      {
+        "professor": "Prof. John Rodriguez",
+        "subject": "Introduction to Psychology",
+        "stars": 4,
+        "review": "Interesting lectures and engaging material, but grading can be a bit tough."
+      },
+      {
+        "professor": "Dr. Emily Carter",
+        "subject": "Organic Chemistry",
+        "stars": 3,
+        "review": "Challenging course with a lot of material. Dr. Carter is knowledgeable, but the exams are very difficult."
+      },
+      {
+        "professor": "Prof. Mark Davidson",
+        "subject": "World History",
+        "stars": 4,
+        "review": "Great storyteller! Makes history come alive, though there’s a lot of reading required."
+      },
+      {
+        "professor": "Dr. Linda Nguyen",
+        "subject": "Microeconomics",
+        "stars": 2,
+        "review": "The class material is interesting, but Dr. Nguyen’s lectures can be monotonous and hard to follow."
+      },
+      {
+        "professor": "Prof. Michael Brown",
+        "subject": "Physics II",
+        "stars": 5,
+        "review": "Prof. Brown is one of the best physics teachers I’ve had. He makes complex topics easy to understand."
+      },
+      {
+        "professor": "Dr. Sarah Lee",
+        "subject": "Biology 101",
+        "stars": 4,
+        "review": "Very passionate about biology, but sometimes moves through the material too quickly."
+      },
+      {
+        "professor": "Prof. David Wilson",
+        "subject": "English Literature",
+        "stars": 5,
+        "review": "Prof. Wilson’s classes are always engaging. He encourages critical thinking and open discussions."
+      },
+      {
+        "professor": "Dr. Karen White",
+        "subject": "Statistics",
+        "stars": 3,
+        "review": "The course is well-structured, but Dr. White can be a bit harsh with her grading."
+      },
+      {
+        "professor": "Prof. James Harris",
+        "subject": "Philosophy 101",
+        "stars": 4,
+        "review": "Thought-provoking lectures, but some of the material can be abstract and difficult to grasp."
+      },
+      {
+        "professor": "Dr. Elizabeth Garcia",
+        "subject": "Chemistry Lab",
+        "stars": 2,
+        "review": "The lab is very time-consuming and Dr. Garcia expects a lot from her students."
+      },
+      {
+        "professor": "Prof. William King",
+        "subject": "Sociology",
+        "stars": 5,
+        "review": "Prof. King’s classes are incredibly insightful. He challenges students to think about societal issues critically."
+      },
+      {
+        "professor": "Dr. Amanda Collins",
+        "subject": "Anatomy & Physiology",
+        "stars": 4,
+        "review": "Dr. Collins is very knowledgeable, but the pace of the course is intense."
+      },
+      {
+        "professor": "Prof. Robert Clark",
+        "subject": "Computer Science I",
+        "stars": 3,
+        "review": "The content is good, but Prof. Clark’s teaching style can be a bit dry."
+      },
+      {
+        "professor": "Dr. Jennifer Martinez",
+        "subject": "Environmental Science",
+        "stars": 5,
+        "review": "Dr. Martinez is passionate about the subject and makes the material very relatable."
+      },
+      {
+        "professor": "Prof. Charles Scott",
+        "subject": "Introduction to Art History",
+        "stars": 4,
+        "review": "Interesting lectures with a lot of visual aids. However, the exams are harder than expected."
+      },
+      {
+        "professor": "Dr. Angela Roberts",
+        "subject": "Political Science",
+        "stars": 2,
+        "review": "Dr. Roberts is knowledgeable, but the class is very lecture-heavy and can be boring."
+      },
+      {
+        "professor": "Prof. Steven Lewis",
+        "subject": "Algebra",
+        "stars": 3,
+        "review": "Decent class, but Prof. Lewis doesn’t always explain the concepts clearly."
+      },
+      {
+        "professor": "Dr. Catherine Turner",
+        "subject": "Advanced Writing",
+        "stars": 5,
+        "review": "Dr. Turner is an amazing professor. She provides detailed feedback that really helps improve your writing."
+      },
+      {
+        "professor": "Prof. Anthony Young",
+        "subject": "Marketing 101",
+        "stars": 4,
+        "review": "Good class with practical examples, but sometimes the assignments feel a bit repetitive."
+      }
+    ]
+  }
+  
